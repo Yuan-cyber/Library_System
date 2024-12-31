@@ -1,4 +1,4 @@
-# Library_Project
+# 📖 Library_Project 📖
 
 This is a full-stack web application built with React for the frontend and Spring Boot for the backend.
 
